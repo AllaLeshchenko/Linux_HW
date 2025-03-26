@@ -1,0 +1,18 @@
+Filesystem                Size      Used Available Use% Mounted on
+/dev/root                 4.9G      2.3G      2.6G  47% /
+devtmpfs                 91.3M         0     91.3M   0% /dev
+
+
+   0 vi /tmp/alla.txt
+   1 df -h | head -3 >> /tmp/alla.txt
+   2 vi /tmp/alla.txt
+   3 cat /tmp/alla.txt
+   4 vi /tmp/alla.txt
+   5 cat /tmp/alla.txt
+   6 chmod g+wx /tmp/alla.txt
+   7 chmod o-rwx /tmp/alla.txt
+   8 touch myfirstbashscript.sh 
+   9 vi  myfirstbashscript.sh 
+  10 chmod +x myfirstbashscript.sh 
+  11 cat myfirstbashscript.sh >> /tmp/alla.txt 
+  12 history >> /tmp/alla.txt

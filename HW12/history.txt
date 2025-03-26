@@ -1,0 +1,433 @@
+    1  git config
+    2  git config
+    3  git -v
+    4  git config --global
+    5  git config --global user.name
+    6  git config --global user.name 'Alla Leshchenko'
+    7  git config --global user.emil
+    8  git config --global user.email 'leshchen.a@gmail.com'
+    9  git config --list
+   10  cd
+   11  ssh-keygen
+   12  cat .ssh/id_ed25519.pub
+   13  ssh ec2-user@linux.itcareerhub.de
+   14  scp ec2-user@linux.itcareerhub.de: /opt/131224-wdm/Alla/file.txt .
+   15  scp ec2-user@linux.itcareerhub.de:/opt/131224-wdm/Alla/file.txt .
+   16  scp ec2-user@linux.itcareerhub.de:/home/AndreevV/tetris.sh .
+   17  scp ec2-user@linux.itcareerhub.de:/opt/chumak/tetris.sh .
+   18  pwd
+   19  scp ec2-user@linux.itcareerhub.de: /opt/131224-wdm/Alla/file.txt .
+   20  scp ec2-user@linux.itcareerhub.de:/opt/131224-wdm/Alla/file.txt .
+   21  cd
+   22  scp ec2-user@linux.itcareerhub.de:/opt/131224-wdm/Alla/file.txt .
+   23  ls
+   24  scp ec2-user@linux.itcareerhub.de:/opt/chumak/tetris.sh .
+   25  cd
+   26  ssh ec2-user@linux.itcareerhub.de
+   27  ls -la
+   28  cd /opt/131224 wdm
+   29  cd /opt/13122-wdm
+   30  cd /opt/131224-wdm
+   31  ls
+   32  cd /opt/131224-wdm
+   33  cd /opt/131224-wdm
+   34  cd
+   35  cd /opt/131224-wdm
+   36  cd /opt/131224-wdm/
+   37  pwd
+   38  cd
+   39  ssh ec2-user@linux.itcareerhub.de
+   40  ec2-user@linux.itcareerhub.de
+   41  cd
+   42  ec2-user@linux.itcareerhub.de
+   43  ssh ec2-user@linux.itcareerhub.de
+   44  cd
+   45  ssh ec2-user@linux.itcareerhub.de
+   46  cd
+   47  ssh ec2-user@linux.itcareerhub.de~
+   48  ssh ec2-user@linux.itcareerhub.de
+   49  cd
+   50  ssh ec2-user@linux.itcareerhub.de
+   51  cd
+   52  cat .ssh/id_ed25519.pub
+   53  export ALLA_VARIABLE="131224-wdm"
+   54  echo $ALLA_VARIABLE
+   55  touch /opt/131224-wdm/Alla .process_management
+   56  cd
+   57  ssh ec2-user@linux.itcareerhub.de
+   58  cd
+   59  ssh ec2-user@linux.itcareerhub.de
+   60  св
+   61  св
+   62  cd
+   63  ssh ec2-user@linux.itcareerhub.de
+   64  cd
+   65  ssh ec2-user@linux.itcareerhub.de
+   66  cd
+   67  ssh ec2-user@linux.itcareerhub.de
+   68  cd
+   69  cat .ssh/
+   70  cd
+   71  cat .ssh/id_ed25519.pub
+   72  /Desktop/test
+   73  Desktop/test
+   74  echo "# git_intro" >> README.md
+   75  git init
+   76  ls -la
+   77  cd .git
+   78  ls -la
+   79  cd ..
+   80  git status
+   81  git add README.md
+   82   
+   83  git commit -m "add file README.md"
+   84  git branch -M main
+   85  git remote add origin git@github.com:AllaLeshchenko/git_intro.git
+   86  git remote -v
+   87  git push -u origin main
+   88  git add smile.jpg
+   89  git commit -m "Added photo"
+   90  git push
+   91  cd
+   92  ssh ec2-user@linux.itcareerhub.de
+   93  #!/bin/bash
+   94  set -e
+   95  USER="Alla"
+   96  date
+   97  echo hello $USER!
+   98  pwd
+   99  ps -ef | grep bioset | grep -v grep | wc -l
+  100  ls -la /etc/passwd | awk '{print $1}'
+  101  #!/bin/bash
+  102  set -e
+  103  USER="Alla"
+  104  date
+  105  echo hello $USER!
+  106  pwd
+  107  ps -ef | grep bioset | grep -v grep | wc -l
+  108  ls -la /etc/passwd | awk '{print $1}'
+  109  #!/bin/bash
+  110  set -e
+  111  USER="Alla"
+  112  date
+  113  echo hello $USER!
+  114  pwd
+  115  ps -ef | grep bioset | grep -v grep | wc -l
+  116  ls -la /etc/passwd | awk '{print $1}'
+  117  #!/bin/bash
+  118  set -e
+  119  USER="Alla"
+  120  date
+  121  echo hello $USER!
+  122  pwd
+  123  ps -ef | grep bioset | grep -v grep | wc -l
+  124  ls -la /etc/passwd | awk '{print $1}'
+  125  #!/bin/bash
+  126  set -e
+  127  USER="Alla"
+  128  date
+  129  echo hello $USER!
+  130  pwd
+  131  ps -ef | grep bioset | grep -v grep | wc -l
+  132  ls -la /etc/passwd | awk '{print $1}'
+  133  #!/bin/bash
+  134  set -e
+  135  USER="Alla"
+  136  date
+  137  echo "Hello $USER!"
+  138  pwd
+  139  ps -ef | grep bioset | grep -v grep | wc -l
+  140  ls -la /etc/passwd | awk '{print $1}'
+  141  #!/bin/bash
+  142  set -e
+  143  USER="Alla"
+  144  date
+  145  echo "Hello $USER!"
+  146  pwd
+  147  ps -ef | grep bioset | grep -v grep | wc -l
+  148  ls -la /etc/passwd | awk '{print $1}'
+  149  #!/bin/bash
+  150  set -e
+  151  USER="Alla"
+  152  date
+  153  echo "Hello $USER!"
+  154  pwd
+  155  ps -ef | grep bioset | grep -v grep | wc -l
+  156  ls -la /etc/passwd | awk '{print $1}'
+  157  #!/bin/bash
+  158  set -e
+  159  USER="Alla"
+  160  date
+  161  echo "Hello $USER!"
+  162  pwd
+  163  ps -ef | grep bioset | grep -v grep | wc -l
+  164  ls -la /etc/passwd | awk '{print $1}'
+  165  #!/bin/bash
+  166  set -e
+  167  USER="Alla"
+  168  date
+  169  echo "Hello $USER!"
+  170  pwd
+  171  ps -ef | grep bioset | grep -v grep | wc -l
+  172  ls -la /etc/passwd | awk '{print $1}'
+  173  #!/bin/bash
+  174  set -e
+  175  USER="Alla"
+  176  date
+  177  echo hello $USER!
+  178  pwd
+  179  ps -ef | grep bioset | grep -v grep | wc -l
+  180  ls -la /etc/passwd | awk '{print $1}'
+  181  echo "# new-repository" >> README.md
+  182  pwd
+  183  git init
+  184  ls -la
+  185  git status
+  186  git add .
+  187  git status
+  188  git commit -m "added new-repository"
+  189  git  branch
+  190  git branch -M main
+  191  git remote add origin git@github.com:AllaLeshchenko/new-repository.git
+  192  git remote -v
+  193  git push -u origin main
+  194  touch file.txt
+  195  git status
+  196  git add file.txt
+  197  git commit -m "added new file.txt"
+  198  git push
+  199  git init
+  200  touch file1.txt file2.txt file3.txt 
+  201  git add .
+  202  git status
+  203  git commit -m "added file1.txt file2.txt file3.txt"
+  204  git branch
+  205  git branch -M main
+  206  git branch
+  207  git remote add origin git@github.com:AllaLeshchenko/git-branch.git
+  208  git push -u origin main
+  209  git checkout -b gitignore
+  210  git branch
+  211  git log
+  212  git push -u origin gitignore
+  213  touch file4.txt
+  214  git add file4.txt
+  215  git commit -m "added file4.txt"
+  216  git push
+  217  cd
+  218  ssh ec2-user@linux.itcareerhub.de~
+  219  ssh ec2-user@linux.itcareerhub.de
+  220  echo "# git-branch1" >> README.md
+  221  pwd
+  222  git init
+  223  ls -la
+  224  git status
+  225  git add README.md
+  226   git branch
+  227  git branch
+  228  git branch -M main
+  229  git remote add origin git@github.com:AllaLeshchenko/git-branch1.git
+  230  git remote -v
+  231  git push -u origin main
+  232  git push -u origin main
+  233  echo "# git-branch" >> README.md
+  234  git init
+  235  git add README.md
+  236  echo "# git-branch2" >> README.md
+  237  git init
+  238  git add README.md
+  239  git commit -m "first commit"
+  240  git branch -M main
+  241  git remote add origin git@github.com:AllaLeshchenko/git-branch2.git
+  242  git push -u origin main
+  243  git checkout -b gitignore
+  244  git branch
+  245  git push -u origin gitignore
+  246  nano .gitignore
+  247  git status
+  248  curl -O https://raw.githubusercontent.com/aliaskov/bashscripts/master/.gitignore
+  249  ls -la
+  250  git status
+  251  git add .
+  252  git status
+  253  git commit -m "added new .gitignore"
+  254  git push
+  255  cat .gitignore
+  256  cd
+  257  ssh ec2-user@linux.itcareerhub.de
+  258  cd
+  259  ssh ec2-user@linux.itcareerhub.de
+  260  cd
+  261  ssh ec2-user@linux.itcareerhub.de
+  262  git init
+  263  touch alla.txt 
+  264  git add alla.txt
+  265  git status
+  266  echo "First commit" > file.txt
+  267  git status
+  268  git add file.txt
+  269  git commit -m "first commit"
+  270  git checkout -b feature-branch
+  271  git branch
+  272  echo "change in feature-branch" >> file.txt
+  273  git status
+  274  git add .
+  275  git commit -m "new hange in feature-branch"
+  276  git log
+  277  git checkout main
+  278  git branch
+  279  git branch -b main
+  280  git status
+  281  git checkout -b main
+  282  git status
+  283  git checkout main
+  284  git add file.txt
+  285  git commit -m "change main"
+  286  git merge feature-branch
+  287  nano file.txt
+  288  y
+  289  git status
+  290  nano file.txt
+  291  git status
+  292  git commit -am "fixed conflikt merge feature-branch"
+  293  git status
+  294  git log
+  295  git log --oneline
+  296  git log --oneline --graph --all
+  297  git branch
+  298  git branch -d feature-branch
+  299  git branch
+  300  git checkout master
+  301  ls -la
+  302  git log
+  303  git merge main
+  304  git status
+  305  cat file.txt
+  306  git branch
+  307  git branch -d main
+  308  git branch -M main
+  309  echo "new text" >> file.txt
+  310  git add file.txt
+  311  git status
+  312  git commit -m "changeg"
+  313  git log --oneline
+  314  git commit --amend -m "changed"
+  315  git log --oneline
+  316  echo "word" >> new-file.txt
+  317  git add new-file.txt
+  318  git commit --amend --no-edit
+  319  git log
+  320  git log --oneline
+  321  git branch
+  322  git checkout -b feature-branch
+  323  echo "new data" >> file.txt
+  324  ls -l
+  325  git rebase main
+  326  git status
+  327  git add file.txt
+  328  git commit -m "added new data"
+  329  git rebase main
+  330  git checkout main
+  331  echo "second change" >> file.txt
+  332  git commit -am "third commit"
+  333  git checkout feature-branch
+  334  echo "123456789" >> file.txt
+  335  git commit -am "added 123456789"
+  336  git rebase main
+  337  git rebase --continue
+  338  nano file.txt
+  339  git rebase --continue
+  340  git status
+  341  git commit -am "987654321"
+  342  git rebase --continue
+  343  git status
+  344  git add file.txt
+  345  git status
+  346  git commit -m "9876"
+  347  git rebase --continue
+  348  history
+  349  echo "# git-bransh7" >> README.md
+  350  git init
+  351  git add README.md
+  352  git status
+  353  git commit -m "added README.md"
+  354  git branch
+  355  branch -M main
+  356  git branch -M main
+  357  git remote add origin git@github.com:AllaLeshchenko/git-bransh7.git
+  358  git push -u origin main
+  359  git checkout -b gitignore
+  360  git branch
+  361  nano .gitignore
+  362  git push -u origin gitignore
+  363  git branch -d gitignore
+  364  git branch -D gitignore
+  365  git checkout main
+  366  git branch -d gitignore
+  367  git branch
+  368  св
+  369  cd
+  370  ssh ec2-user@linux.itcareerhub.de
+  371  cd 
+  372  echo "# HW12" >> README.md
+  373  git init
+  374  git add README.md
+  375  git commit -m "added README.md"
+  376  git status
+  377  git branch -M main
+  378  git remote add origin git@github.com:AllaLeshchenko/HW12.git
+  379  git push -u origin main
+  380  touch .gitignore
+  381  git status
+  382  git add .gitignore
+  383  git commit -m "added file .gitignore"
+  384  git status
+  385  git push 
+  386  git clone https://github.com/AllaLeshchenko/HW12.git
+  387  git checkout -b feature
+  388  nano README.md
+  389  nano .gitignore
+  390  git add README.md .gitignore 
+  391  git commit -m "added changes to README.md and gitignore"
+  392  git status
+  393  git push origin feature
+  394  git status
+  395  git add .
+  396  echo "# HW12" >> README.md
+  397  git init
+  398  git add README.md
+  399  git commit -m "added README.md"
+  400  git branch -M main
+  401  git remote add origin git@github.com:AllaLeshchenko/HW12.git
+  402  git push -u origin main
+  403  echo "# HW12-" >> README.md
+  404  git init
+  405  git add README.md
+  406  git commit -m "added README.md"
+  407  git branch -M main
+  408  git remote add origin git@github.com:AllaLeshchenko/HW12-.git
+  409  git push -u origin main
+  410  echo "# HW12" >> README.md
+  411  git init
+  412  git add README.md
+  413  git commit -m "added README.md"
+  414  git branch -M main
+  415  git remote add origin git@github.com:AllaLeshchenko/HW12.git
+  416  git push -u origin main
+  417  touch .gitignore
+  418  git add .gitignore
+  419  git commit -m "added .gitignore"
+  420  git push
+  421  git clone https://github.com/AllaLeshchenko/HW12
+  422  git checkout -b feature
+  423  nano README.md
+  424  nano .gitignore
+  425  git add README.md .gitignore 
+  426  git commit -m "added chenges to README.md and gitignore"
+  427  git push origin feature
+  428  git commit --amend
+  429  git push origin feature --force
+  430  git checkout main
+  431  git merge feature
+  432  git push origin main
+  433  history > history.txt

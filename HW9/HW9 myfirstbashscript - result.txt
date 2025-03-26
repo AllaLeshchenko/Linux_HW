@@ -1,0 +1,13 @@
+Mon Feb 24 18:16:05 UTC 2025
+Hello Alla!
+/root
+10
+-rw-r--r--
+   0 touch myfirstbashscript.sh
+   1 chmod +x myfirstbashscript.sh
+   2 vi  myfirstbashscript.sh
+   3 ./myfirstbashscript.sh
+   4 export_file myfirstbashscript.sh
+   5 ./myfirstbashscript.sh > result.txt
+   6 cat result.txt
+   7 history >> result.txt

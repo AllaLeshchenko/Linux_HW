@@ -1,0 +1,9 @@
+02/01/25
+Modifiend with text editor
+/dev/root                 4.9G      2.3G      2.6G  47% /
+   1 df -h | grep G
+   2 df -h | grep G >> alla.txt 
+   3 history | tail -3 >> alla.txt 
+cron:x:16:16:cron:/var/spool/cron:/sbin/nologin
+at:x:25:25:at:/var/spool/cron/atjobs:/sbin/nologin
+11
